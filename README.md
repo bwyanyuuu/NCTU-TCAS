@@ -1,2 +1,18 @@
-# NCTU-TCAS
-Teacher/Class Assessment Search
+# NCTU Teacher/Class Assessment Search
+## 功能：
+本程式提供交通大學相關網站中的教授和課程評價與心得之整合查詢
+
+
+## 使用方法：
+打開資料夾，執行exe檔即開啟本程式 (建議按右鍵建立捷徑方便以後使用)
+
+
+## 注意事項：
+1. 使用時請保持網路暢通
+2. 如果找不到結果會出現警示語，並非當機。請稍微注意一下。
+
+
+最後祝大家都選到名副其實的甜課啦！www
+有遇到 bug 也歡迎回報 XD
+有空的話請填個表單 -> https://forms.gle/HnLN3VojbmaBUrva9
+謝謝你的惠顧(?
